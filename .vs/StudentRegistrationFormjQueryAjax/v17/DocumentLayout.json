@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\entity\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:entity\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\migrations\\studentregistrationformcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:migrations\\studentregistrationformcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\context\\studentregistrationformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:context\\studentregistrationformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\studentregistrationformjqueryajax.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:studentregistrationformjqueryajax.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|f:\\dotnetprogramss\\studentregistrationformjqueryajax\\migrations\\20240624102023_studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CA5EEB-8D49-41B7-BB81-669EF8A2049F}|StudentRegistrationFormjQueryAjax.csproj|solutionrelative:migrations\\20240624102023_studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T09:30:01.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRegistrationFormContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Migrations\\StudentRegistrationFormContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\StudentRegistrationFormContextModelSnapshot.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Migrations\\StudentRegistrationFormContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\StudentRegistrationFormContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:07:50.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Views\\Ajax\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ajax\\Index.cshtml",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Views\\Ajax\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ajax\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:32:03.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:16:56.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentEntity.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Entity\\StudentEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\StudentEntity.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Entity\\StudentEntity.cs",
+              "RelativeToolTip": "Entity\\StudentEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:12:25.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T10:00:54.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentRegistrationFormjQueryAjax.csproj",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\StudentRegistrationFormjQueryAjax.csproj",
+              "RelativeDocumentMoniker": "StudentRegistrationFormjQueryAjax.csproj",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\StudentRegistrationFormjQueryAjax.csproj",
+              "RelativeToolTip": "StudentRegistrationFormjQueryAjax.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T10:11:56.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "custom.js",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\custom.js",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "wwwroot\\js\\custom.js",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T10:42:34.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T10:00:50.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentRegistrationFormContext.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Context\\StudentRegistrationFormContext.cs",
+              "RelativeDocumentMoniker": "Context\\StudentRegistrationFormContext.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Context\\StudentRegistrationFormContext.cs",
+              "RelativeToolTip": "Context\\StudentRegistrationFormContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:03:30.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240624102023_StudentForm.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Migrations\\20240624102023_StudentForm.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240624102023_StudentForm.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Migrations\\20240624102023_StudentForm.cs",
+              "RelativeToolTip": "Migrations\\20240624102023_StudentForm.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:20:24.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AjaxController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Controllers\\AjaxController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AjaxController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Controllers\\AjaxController.cs",
+              "RelativeToolTip": "Controllers\\AjaxController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:50:05.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.js",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T10:42:44.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T10:45:53.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\StudentRegistrationFormjQueryAjax\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:43:09.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
